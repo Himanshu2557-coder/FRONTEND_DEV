@@ -13,7 +13,6 @@ Clean and Customisable Frontend Projects !!
 
 
 ## 🕵️‍♂️ DevDetective – GitHub Profile Inspector
-**************************************************
 
 **************************************************
 📸 Screenshot
